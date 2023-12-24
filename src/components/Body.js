@@ -8,7 +8,7 @@ const Body = () => {
   const [restaurantList, setRestaurantList] = useState([]);
   const [searchText, setSearchText] = useState("");
   const [filteredResList, setFilteredResList] = useState([]);
-  const [location, setLocation] = useState([17.4171113, 78.4616959]);
+  const [location, setLocation] = useState([28.628151, 77.367783]);
   const [place, setPlace] = useState("Noida");
 
   useEffect(() => {
