@@ -1,4 +1,4 @@
-# Quick Bite - Food ordering app
+# Bar-Bite - Food ordering app
 
 - Home page (by fetching the restaurants data through the live API)
 - Restaurant Menu page (built a menu for each restaurant, here the learning I got was building a fancy accordion)
@@ -12,4 +12,4 @@
 - Also learnt lazy loading of components which I learnt would be very beneficial as the application scales. 
 - I have also learnt building a react application from scratch (setting it up using parcel which is a build tool to making custom configurations to my application (instead of using the create-react-app)
 - Overall, built a decent UI using TailwindCSS.
-"# Bar-Bite" 
+
