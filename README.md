@@ -1,6 +1,6 @@
 # Bar-Bite - Food ordering app
 
-- Home page (by fetching the restaurants data through the live API)
+- Home page (by fetching the restaurants data through the live API).
 - Restaurant Menu page (built a menu for each restaurant, here the learning I got was building a fancy accordion)
 - Populated my mini portfolio (About page) using my GitHub data through the GitHub API
 - Created a cart which has the list of ordered items (where I learnt about using the latest Redux toolkit efficiently in managing global state)
